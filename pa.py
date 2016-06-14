@@ -4,3 +4,4 @@ if a == 3 :
 	print "yes"
 else :
 	print "no不相等"
+pring "添"
