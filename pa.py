@@ -5,3 +5,4 @@ if a == 3 :
 else :
 	print "no不相等"
 print "添"
+print "加上了"
